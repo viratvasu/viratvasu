@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi I'm Vasu 👋
+```python
+class SoftwareEngineer:
 
-<!--
-**viratvasu/viratvasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    def __init__(self):
+        self.name = "Vasu Gangavarapu"
+        self.role = "Software Engineer"
+        self.languages = ["Python","Java Script"]
+        self.skills = ["Cloud","Django","React"]
 
-Here are some ideas to get you started:
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+[![Vasu's GitHub stats](https://github-readme-stats.vercel.app/api?username=viratvasu&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
