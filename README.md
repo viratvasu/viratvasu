@@ -16,6 +16,7 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 [![Vasu's GitHub stats](https://github-readme-stats.vercel.app/api?username=viratvasu&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <img src="https://github.com/viratvasu/viratvasu/blob/main/code.gif" height="150"> -->
 
 
 
